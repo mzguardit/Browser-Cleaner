@@ -1,4 +1,4 @@
-# Browser Cleaner 6.0 - 2025
+# Browser Cleaner 6.0
 
 Browser Cleaner is a powerful utility designed to clean up your browser data, remove duplicates, and debloat your system for optimal performance.
 
